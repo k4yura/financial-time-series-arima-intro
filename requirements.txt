@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy>=1.23
+yfinance>=0.2.27
+statsmodels>=0.14
+matplotlib>=3.5
+python-dateutil
