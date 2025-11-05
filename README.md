@@ -33,6 +33,3 @@ financial-time-series-arima-intro/
     └── main.py
 ```
 
-## Notes
-- This is intentionally minimal and tutorial-focused. Replace tickers or time ranges in `src/main.py` as needed.
-- If you want CI or tests later, ask me and I'll add them.
